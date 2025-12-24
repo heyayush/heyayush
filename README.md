@@ -27,35 +27,54 @@
 ● Started career as Manual tester, followed by Automation,
 Front-end, Hybrid mobile apps, Backend, and DevOps
 technologies.
+
 ● Aspiring career as a Tech Architect.
+
 ● Typescript, Javascript is my go to language, with some
 exposure to Python and GoLang as well.
+
 ● Front-end experience in Angular, React, Next.js, Gatsby.js,
 Ionic, React-Native.
+
 ● Backend work on Node.js scripting. REST and GraphQL API.
+
 ● Familiar with SQL syntax and using SQL as well as non
 relational databases.
+
 ● Familiar with deployment configuration, cloud infra setup
 and logs monitoring.
+
 ● Worked on cloud functions using AWS Lambda, Cloudflare
 Workers and Deno functions using Supabase.
+
 ● Collaborating with clients and working on client location.
+
 ● Responsible for gathering product requirements and
 proposing technical solutions.
+
 ● Document technical solutions using UML diagrams and
 communicate it across the team.
+
 ● Established coding standards, unit testing and pull request
 reviewing guidelines for the team.
+
 ● Responsible for upskilling team members by doing code
 reviews, pair-programming, knowledge sharing sessions.
+
 ● Prepare action plan and roadmap for bi-weekly sprints and
 monthly releases.
+
 ● Planning technical debts and migrations to new versions.
+
 ● Scripted e2e automation tests for daily regression testing.
+
 ● Indulge in meetups and conferences to share knowledge,
 expand network and keep on learning the latest tech.
+
 ● Github profile: https://github.com/heyayush
+
 ● My Personal blog: https://heyayush.com
+
 
 #### Skills
 - Front-end
